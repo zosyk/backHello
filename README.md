@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/zosyk/backHello.svg?branch=master)](https://travis-ci.org/zosyk/backHello)
 # backHello
 
 Есть таблица contacts в SQL базе. В ней миллионы строк.
