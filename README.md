@@ -1,6 +1,17 @@
 [![Build Status](https://travis-ci.org/zosyk/backHello.svg?branch=master)](https://travis-ci.org/zosyk/backHello)
 # backHello
 
+Решение:
+
+1. Нужно зайти в root directory проекта.
+2. Открыть консоль и выполнить первую команду : vagrant up
+3. Запустить сам проект, выполнить следующую команду: mvn spring-boot:run
+
+
+
+
+Условие:
+
 Есть таблица contacts в SQL базе. В ней миллионы строк.
 Поле
 Тип
