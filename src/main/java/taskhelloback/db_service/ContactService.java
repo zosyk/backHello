@@ -9,5 +9,7 @@ public interface ContactService {
 
     List<Contact> getAll();
 
+    List<Contact> getContactByOffset(int offset, int limit);
+
 
 }
